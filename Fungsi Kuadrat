@@ -1,0 +1,4 @@
+def f_kuadrat(x):
+    return x**2 + 2*x + 1
+for i in range(6):
+    print(f"x = {i}, f(x) = {f_kuadrat(i)}")
