@@ -1,0 +1,4 @@
+def f_linear
+    return 2 * x + 3
+for i in range(6):
+    print(f"x = {i}, f(x) = {f_linear(i)}")
