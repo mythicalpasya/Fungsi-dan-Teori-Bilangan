@@ -1,0 +1,5 @@
+import numpy as np
+print(np.arange(0, 10, 2))   #Untuk membuat deret dengan jarak tertentu
+print(np.linspace(o, 1, 5))  #Untuk membuat deret dengan jumlah tertentu
+print(np.zeros(5))           #Untuk membuat array berisi nol
+print(np.ones(3))            #Untuk membuat array berisi satu
